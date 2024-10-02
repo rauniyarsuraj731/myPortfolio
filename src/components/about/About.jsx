@@ -18,11 +18,9 @@ export default function About() {
             I am always curious about learning new technologies, and love to
             develop scalable web applications.
             <br />
-            <br /> I create web pages with UI/UX user
-            interface, with having a knowledge in MongoDb, NodeJs,
-            ExpressJs, React, Redux, HTML, CSS, and Javascript. I am a good team
-            player.
-            
+            <br /> I create web pages with UI/UX user interface, with having a
+            knowledge in MongoDb, NodeJs, ExpressJs, React, Redux, HTML, CSS,
+            and Javascript. I am a good team player.
           </div>
           <div className="parImg">
             <img src="assets/aboutImg.jpg" alt="" />
@@ -59,6 +57,14 @@ export default function About() {
               <div className="name">Javascript</div>
             </div>
           </div>
+          <div className="icons">
+            <div className="mainCO">
+              <div className="iconContainer">
+                <img src={"assets/Typescript.png"} alt="" />
+              </div>
+              <div className="name">Typescript</div>
+            </div>
+          </div>
 
           <div className="icons">
             <div className="mainCO">
@@ -66,6 +72,14 @@ export default function About() {
                 <img src={"assets/React.png"} alt="" />
               </div>
               <div className="name">React</div>
+            </div>
+          </div>
+          <div className="icons">
+            <div className="mainCO">
+              <div className="iconContainer">
+                <img src={"assets/React.png"} alt="" />
+              </div>
+              <div className="name">ReactNative</div>
             </div>
           </div>
 
@@ -81,9 +95,9 @@ export default function About() {
           <div className="icons">
             <div className="mainCO">
               <div className="iconContainer">
-                <img src={"assets/npm.png"} alt="" />
+                <img src={"assets/Material UI.png"} alt="" />
               </div>
-              <div className="name">NPM</div>
+              <div className="name">Material UI</div>
             </div>
           </div>
 
@@ -120,6 +134,22 @@ export default function About() {
                 <img src={"assets/github.png"} alt="" />
               </div>
               <div className="name">GIT</div>
+            </div>
+          </div>
+          <div className="icons">
+            <div className="mainCO">
+              <div className="iconContainer">
+                <img src={"assets/Azure.jpg"} alt="" />
+              </div>
+              <div className="name">AzureDevOps</div>
+            </div>
+          </div>
+          <div className="icons">
+            <div className="mainCO">
+              <div className="iconContainer">
+                <img src={"assets/figma.png"} alt="" />
+              </div>
+              <div className="name">Figma</div>
             </div>
           </div>
         </div>
