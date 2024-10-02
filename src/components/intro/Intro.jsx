@@ -12,7 +12,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: [ "Full-Stack Web Developer"],
+      strings: [ "Front-end Developer","React Js Developer","UI Developer"],
     });
   }, []);
 
@@ -27,9 +27,6 @@ export default function Intro() {
           </h3>
          
         </div>
-        {/* <a href="#portfolio">
-          <img src="assets/down.png" alt="" />
-        </a> */}
       </div>
       <div className="left">
         <div className="imgContainer">
